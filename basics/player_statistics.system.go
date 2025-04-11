@@ -19,6 +19,11 @@ func main() {
 }
 
 func requestName() string {
+	defer func() {
+		if r := recover(); r != nil {
+			fmt.Println(r)
+		}
+	}()
 	var name string
 	fmt.Print("Name: ")
 	fmt.Scanln(&name)
