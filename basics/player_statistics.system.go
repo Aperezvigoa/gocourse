@@ -10,7 +10,7 @@ var playerStatistics = make(map[string][2]int)
 
 func main() {
 
-	defer fmt.Println("Thank you for use the player statistics system")
+	defer fmt.Println("Thank you for use the player statistics system.")
 
 	for i := 0; i < MAXPLAYERS; i++ {
 		registerNewPlayer(i, requestName())
