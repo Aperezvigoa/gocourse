@@ -1,6 +1,11 @@
 # Go Language Study Repository
 
-![Gopher Mascot](https://blog.golang.org/gopher/header.jpg)
+
+
+<p align="center">
+  <img src="https://github.com/ashleymcnamara/gophers/blob/master/GOPHER_LEARN.png?raw=true" alt="Gopher" width="650"/>
+</p>
+
 
 
 This repository contains a collection of exercises, code samples, and notes developed while studying the Go programming language. The goal is to build a solid understanding of Go's core features and idiomatic patterns, with a focus on writing clean, efficient, and maintainable code.
