@@ -70,7 +70,7 @@ func (p Professor) GetUserType() string {
 	return fmt.Sprintf("User level: %T", p)
 }
 
-var userAlert, _ = template.New("alert").Parse("\nUser: {{.Name}} ({{.Type}})\nBorrowed books: {{.Borrowed}}\n\n")
+var userAlert, _ = template.New("alert").Parse("\nUser: {{.Name}}\nBorrowed books: {{.Borrowed}}\n\n")
 var bookResume, _ = template.New("book").Parse("\nBook ID: {{.ID}}\nTitle: {{.Title}}\nAuthor: {{.Author}}\nIs Available: {{.IsAvailable}}\n\n")
 var userReport, _ = template.New("report").Parse("\nUserID: {{.UserID}}\nName: {{.Name}}\nTotal Borrowed: {{.Borrowed}}\n\n")
 
@@ -118,7 +118,7 @@ func main() {
 			choiceId := requestBookId()
 			requestedBook, err := getBookById(choiceId, library)
 			canBorrow := user.CanBorrow()
-			if err != nil && canBorrow {
+			if err != nil || !canBorrow {
 				fmt.Println(err)
 			} else {
 				if requestedBook.IsAvailable {
