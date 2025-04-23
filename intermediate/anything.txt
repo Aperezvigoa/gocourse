@@ -1,0 +1,13 @@
+The Curious Case of the Go Cat 🐱💻
+
+There once was a cat named Whiskers who wasn't like other cats. While most felines napped in sunbeams or chased imaginary enemies at 3 a.m., Whiskers had a peculiar obsession: programming in Go.
+
+He discovered Go one day while walking across his human’s keyboard. After accidentally installing Go via terminal (curl -O something-something.sh), he was hooked. The clean syntax, fast compile times, and goroutines spoke to his feline soul.
+
+Every day, Whiskers would sit on the laptop (mostly on the keyboard) and “pair program” with his human. His favorite part of Go was how simple it was to make things concurrent — just like how he could nap and destroy furniture at the same time.
+
+One morning, Whiskers wrote a tiny web server that returned random cat facts. Of course, every fact was about him. His human was impressed, though mildly confused why the server crashed whenever it received a request for “dogs.”
+
+By the end of the week, Whiskers had contributed to an open-source Go project, earned his first GitHub star, and knocked over three coffee mugs.
+
+The moral of the story? Never underestimate a cat with curiosity and a solid grasp of goroutines.
