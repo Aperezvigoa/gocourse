@@ -1,4 +1,4 @@
-package gocourse
+package intermediate
 
 import (
 	"bufio"
