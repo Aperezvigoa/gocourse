@@ -1,0 +1,15 @@
+=== 🧙‍♂️ Poción número 1 🧙‍♂️ ===
+Fecha: 2025-04-27 16:38:58
+Ingredientes: Potion of Fire Resistance & Essence of Night Vision
+Resultado: SUCCESS
+Potencia: 84/100
+=== 🧙‍♂️ Poción número 2 🧙‍♂️ ===
+Fecha: 2025-04-27 16:39:43
+Ingredientes: Potion of Invisibility & Elixir of Eternal Youth
+Resultado: SUCCESS
+Potencia: 89/100
+=== 🧙‍♂️ Poción número 3 🧙‍♂️ ===
+Fecha: 2025-04-27 16:41:34
+Ingredientes: Tonic of Speed & Essence of Night Vision
+Resultado: FAILURE
+Potencia: 0/100
