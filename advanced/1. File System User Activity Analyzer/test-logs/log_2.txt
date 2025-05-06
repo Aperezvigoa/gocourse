@@ -1,0 +1,4 @@
+2025-05-04T09:05:12Z | user:bob       | action:read     | file:/home/bob/notes.md
+2025-05-04T09:15:44Z | user:alice     | action:write    | file:/docs/report1.txt
+2025-05-04T09:35:30Z | user:dave      | action:read     | file:/data/statistics.csv
+2025-05-04T09:40:22Z | user:carol     | action:move     | file:/data/tmp/tmpfile.tmp

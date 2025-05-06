@@ -1,0 +1,4 @@
+2025-05-04T08:15:23Z | user:alice     | action:read     | file:/docs/report1.txt
+2025-05-04T08:18:10Z | user:bob       | action:write    | file:/data/sheet.xlsx
+2025-05-04T08:22:40Z | user:carol     | action:delete   | file:/data/old_info.txt
+2025-05-04T08:25:01Z | user:alice     | action:read     | file:/docs/report2.txt

@@ -1,0 +1,4 @@
+2025-05-04T10:01:00Z | user:alice     | action:read     | file:/docs/manual.pdf
+2025-05-04T10:05:27Z | user:dave      | action:write    | file:/home/dave/todo.txt
+2025-05-04T10:12:45Z | user:carol     | action:read     | file:/data/report_final.txt
+2025-05-04T10:15:00Z | user:bob       | action:delete   | file:/docs/old_plan.docx
